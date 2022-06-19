@@ -7,6 +7,7 @@
 を御覧ください．
 
 Amazon　https://www.amazon.co.jp/dp/4065280753
+
 紀伊國屋書店　https://www.kinokuniya.co.jp/f/dsg-01-9784065280751
 
 ## ソースコード
