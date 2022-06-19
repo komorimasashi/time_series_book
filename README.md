@@ -22,3 +22,9 @@ Amazon　https://www.amazon.co.jp/dp/4065280753
 
 * * *
 ## 正誤表
+
+* * *
+## 連絡先
+大阪電気通信大学
+小森政嗣
+komori@osakac.ac.jp
