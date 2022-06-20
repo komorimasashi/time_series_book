@@ -27,14 +27,18 @@ https://www.kspub.co.jp/book/detail/5280751.html
 - 時系列クラス（Date，POSIXct，POSIXlt，tsibble），季節調整，ARIMAモデルなど 
 - [2章Colab Notebook](chapter2/Chapter_2.ipynb)
 ### 3章：　時系列の回帰分析
-（
-[3章Colab Notebook](chapter3/Chapter_3.ipynb)
+- ADF検定，DW検定，一般化最小二乗法（GLS），潜在成長曲線モデル，中断時系列分析
+- [3章Colab Notebook](chapter3/Chapter_3.ipynb)
 ### 4章：　RStanによる状態空間モデル
-[4章Colab Notebook](chapter4/Chapter_4.ipynb)
+- 状態空間モデル（ローカル線形トレンドモデル等），隠れマルコフモデル，変化点モデルなど
+- [4章Colab Notebook](chapter4/Chapter_4.ipynb)
 ### 5章：　時系列データ同士の関係の評価
-[5章Colab Notebook](chapter5/Chapter_5.ipynb)
+- ラグ相互相関，動的時間伸縮，コヒーレンス， ウェーブレットクロススペクトル解析，時系列クラスタリング，<br>
+  再帰定量化分析，グレンジャー因果性検定，直交化インパルス応答ほか
+- [5章Colab Notebook](chapter5/Chapter_5.ipynb)
 ### 6章：　多変量時系列データの要約
-[6章Colab Notebook](chapter6/Chapter_6.ipynb)
+- 時系列因子分析，関数主成分分析ほか
+- [6章Colab Notebook](chapter6/Chapter_6.ipynb)
 
 * * *
 ## 正誤表
