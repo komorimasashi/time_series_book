@@ -17,15 +17,17 @@ https://www.kspub.co.jp/book/detail/5280751.html
   -　紀伊國屋書店　https://www.kinokuniya.co.jp/f/dsg-01-9784065280751
 
 * * *
-## ソースコード
+## 本の内容とソースコード
 書籍中のソースコードは各chapterのディレクトリにアップしています．また下記のGoogle ColaboratoryのNotebookから閲覧することが出来ます．
 さらに左上の「Open In Colab」ボタンをクリックすることでブラウザ上で実行することも出来ます．
 
 ### 1章：　心理学と時系列データ分析
 [1章Colab Notebook](chapter1/Chapter_1.ipynb)
-### 2章：　時系列分析の基本操作
+### 2章：　時系列分析の基本操作　
+クラス（Date，POSIXct，POSIXlt，tsibble），季節調整，ARIMAモデルなど 
 [2章Colab Notebook](chapter2/Chapter_2.ipynb)
 ### 3章：　時系列の回帰分析
+（
 [3章Colab Notebook](chapter3/Chapter_3.ipynb)
 ### 4章：　RStanによる状態空間モデル
 [4章Colab Notebook](chapter4/Chapter_4.ipynb)
