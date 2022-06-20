@@ -21,7 +21,7 @@ Amazon　https://www.amazon.co.jp/dp/4065280753
 ### 4章：　RStanによる状態空間モデル
 ### 5章：　時系列データ同士の関係の評価
 ### 6章：　多変量時系列データの要約
-
+[3章Colab](chapter3/Chapter_3.ipynb)
 * * *
 ## 正誤表
 
