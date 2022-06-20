@@ -22,7 +22,7 @@ https://www.kspub.co.jp/book/detail/5280751.html
 さらに左上の「Open In Colab」ボタンをクリックすることでブラウザ上で実行することも出来ます．
 
 ### 1章：　心理学と時系列データ分析
-[1章Colab Notebook](chapter1/Chapter_1.ipynb)
+- [1章Colab Notebook](chapter1/Chapter_1.ipynb)
 ### 2章：　時系列分析の基本操作　
 - 時系列クラス（Date，POSIXct，POSIXlt，tsibble），季節調整，ARIMAモデルなど 
 - [2章Colab Notebook](chapter2/Chapter_2.ipynb)
