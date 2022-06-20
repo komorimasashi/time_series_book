@@ -25,14 +25,14 @@ Amazon　https://www.amazon.co.jp/dp/4065280753
 * * *
 ## 正誤表
 
-*　　p.141 
-（誤）　`fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)`
-（正）　`fit <- sampling(model7, data=dat, iter=1000, warmup=500, thin=4, chains=4)`
+*　　p.141 　　
+（誤）　`fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)`　　
+（正）　`fit <- sampling(model7, data=dat, iter=1000, warmup=500, thin=4, chains=4)`　　
 
 
-*　P.164
-（誤）　`model13 <- stan_model(file = "model12.stan", model_name="hmm")`
-（正）　`model12 <- stan_model(file = "model12.stan", model_name="hmm")`
+*　P.164　　
+（誤）　`model13 <- stan_model(file = "model12.stan", model_name="hmm")`　　
+（正）　`model12 <- stan_model(file = "model12.stan", model_name="hmm")`　　
 
 
 * * *
