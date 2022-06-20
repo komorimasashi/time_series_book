@@ -4,7 +4,9 @@
 
 * * *
 ## 本の情報
-本書の概要，目次などについては出版社のページ（https://www.kspub.co.jp/book/detail/5280751.html）
+本書の概要，目次などについては出版社のページ（
+https://www.kspub.co.jp/book/detail/5280751.html 
+）
 を御覧ください．
 購入は下のリンクからできます．
 Amazon　https://www.amazon.co.jp/dp/4065280753
