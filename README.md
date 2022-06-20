@@ -16,12 +16,18 @@ Amazon　https://www.amazon.co.jp/dp/4065280753
 * * *
 ## ソースコード
 ### 1章：　心理学と時系列データ分析
+[1章Colab Notebook](chapter1/Chapter_1.ipynb)
 ### 2章：　時系列分析の基本操作
+[2章Colab Notebook](chapter2/Chapter_2.ipynb)
 ### 3章：　時系列の回帰分析
+[3章Colab Notebook](chapter3/Chapter_3.ipynb)
 ### 4章：　RStanによる状態空間モデル
+[4章Colab Notebook](chapter4/Chapter_4.ipynb)
 ### 5章：　時系列データ同士の関係の評価
+[5章Colab Notebook](chapter5/Chapter_5.ipynb)
 ### 6章：　多変量時系列データの要約
-[3章Colab](chapter3/Chapter_3.ipynb)
+[6章Colab Notebook](chapter6/Chapter_6.ipynb)
+
 * * *
 ## 正誤表
 
