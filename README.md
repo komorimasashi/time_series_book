@@ -1,7 +1,9 @@
 # RとStanではじめる 心理学のための時系列分析入門 
 
 このページは『RとStanではじめる 心理学のための時系列分析入門』（講談社, 2022/6/23発売）のサポートサイトです．
-![image](https://user-images.githubusercontent.com/37983185/174610037-5e5e6d25-4ae5-4c41-9758-13335c0bc12a.png)
+
+<img src="https://user-images.githubusercontent.com/37983185/174610037-5e5e6d25-4ae5-4c41-9758-13335c0bc12a.png" width=20%>
+
 * * *
 ## 本の情報
 本書の概要，目次などについては出版社のページ（
