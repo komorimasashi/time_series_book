@@ -24,8 +24,8 @@ https://www.kspub.co.jp/book/detail/5280751.html
 ### 1章：　心理学と時系列データ分析
 [1章Colab Notebook](chapter1/Chapter_1.ipynb)
 ### 2章：　時系列分析の基本操作　
-クラス（Date，POSIXct，POSIXlt，tsibble），季節調整，ARIMAモデルなど 
-[2章Colab Notebook](chapter2/Chapter_2.ipynb)
+- 時系列クラス（Date，POSIXct，POSIXlt，tsibble），季節調整，ARIMAモデルなど 
+- [2章Colab Notebook](chapter2/Chapter_2.ipynb)
 ### 3章：　時系列の回帰分析
 （
 [3章Colab Notebook](chapter3/Chapter_3.ipynb)
