@@ -15,7 +15,9 @@ Amazon　https://www.amazon.co.jp/dp/4065280753
 
 * * *
 ## ソースコード
-書籍中のソースコードは各chapterのディレクトリにアップしています．また下記のGoogle ColaboratoryのNotebookから閲覧・実行することも出来ます．
+書籍中のソースコードは各chapterのディレクトリにアップしています．また下記のGoogle ColaboratoryのNotebookから閲覧することが出来ます．
+さらに左上の「Open In Colab」ボタンをクリックすることでブラウザ上で実行することも出来ます．
+
 ### 1章：　心理学と時系列データ分析
 [1章Colab Notebook](chapter1/Chapter_1.ipynb)
 ### 2章：　時系列分析の基本操作
