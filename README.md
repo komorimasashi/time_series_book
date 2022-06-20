@@ -9,8 +9,8 @@ https://www.kspub.co.jp/book/detail/5280751.html
 ）
 を御覧ください．
 購入は下のリンクからできます．
-*　Amazon　https://www.amazon.co.jp/dp/4065280753
-*　紀伊國屋書店　https://www.kinokuniya.co.jp/f/dsg-01-9784065280751
+*Amazon　https://www.amazon.co.jp/dp/4065280753
+*紀伊國屋書店　https://www.kinokuniya.co.jp/f/dsg-01-9784065280751
 
 * * *
 ## ソースコード
