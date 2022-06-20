@@ -25,6 +25,9 @@ Amazon　https://www.amazon.co.jp/dp/4065280753
 * * *
 ## 正誤表
 
+p.141 「fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)」は
+正しくは「fit <- sampling(model7, data=dat, iter=1000, warmup=500, thin=4, chains=4)」
+
 * * *
 ## 連絡先
 大阪電気通信大学
