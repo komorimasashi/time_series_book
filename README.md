@@ -27,7 +27,7 @@ https://www.kspub.co.jp/book/detail/5280751.html
 - 時系列クラス（Date，POSIXct，POSIXlt，tsibble），季節調整，ARIMAモデルなど 
 - [2章Colab Notebook](chapter2/Chapter_2.ipynb)
 ### 3章：　時系列の回帰分析
-- ADF検定，DW検定，一般化最小二乗法（GLS），潜在成長曲線モデル，中断時系列分析
+- 拡張ディッキー−フラー検定，ダービン−ワトソン検定，一般化最小二乗法（GLS），潜在成長曲線モデル，中断時系列分析など
 - [3章Colab Notebook](chapter3/Chapter_3.ipynb)
 ### 4章：　RStanによる状態空間モデル
 - 状態空間モデル（ローカル線形トレンドモデル等），隠れマルコフモデル，変化点モデルほか
