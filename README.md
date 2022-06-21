@@ -42,16 +42,16 @@ https://www.kspub.co.jp/book/detail/5280751.html
 
 * * *
 ## 正誤表
-*　　pp.77-81<br>
+*　pp.77-81<br>
 （誤） 文中の`3-4-1.R`, `3-4-2.R`, `3-4-3.R`, `3-4-4.R`　各ファイルのソースコード<br>
 （正） 1つのファイル（`3-4-1.R`）にまとめています
 
-*　　p.141　<br>
+*　p.141　<br>
 （誤）　`fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)`<br>
 （正）　`fit <- sampling(model7, data=dat, iter=1000, warmup=500, thin=4, chains=4)`<br>
 
 
-*　P.164　<br>
+*　.164　<br>
 （誤）　`model13 <- stan_model(file = "model12.stan", model_name="hmm")`　<br>
 （正）　`model12 <- stan_model(file = "model12.stan", model_name="hmm")`　<br>
 
