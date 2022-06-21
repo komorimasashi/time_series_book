@@ -42,6 +42,9 @@ https://www.kspub.co.jp/book/detail/5280751.html
 
 * * *
 ## 正誤表
+*　　pp.77-81<br>
+（誤） 文中の`3-4-1.R`, `3-4-2.R`, `3-4-3.R`, `3-4-4.R`　各ファイルのソースコード<br>
+（正） 1つのファイル（`3-4-1.R`）にまとめています
 
 *　　p.141　<br>
 （誤）　`fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)`<br>
