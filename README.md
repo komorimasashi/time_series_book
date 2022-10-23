@@ -48,11 +48,14 @@ https://www.kspub.co.jp/book/detail/5280751.html
 
 *　p.136　<br>
 季節成分のモデリングのソースに誤りがありました（電子版では修正されています）　<br>
-（誤） season[12:N] ~ normal(-sum(season[1:N-11]), sigma_S); // 季節成分のシステムモデル<br>
+（誤） 
+```
+season[12:N] ~ normal(-sum(season[1:N-11]), sigma_S); // 季節成分のシステムモデル
+```
 （正） 
 ```
 for(t in 12:N)
-    season[t] ~ normal(-sum(season[(t-11):(t-1)]), sigma_S);  // 季節成分のシステムモデル<br>
+    season[t] ~ normal(-sum(season[(t-11):(t-1)]), sigma_S);  // 季節成分のシステムモデル
 ```
 
 *　p.141　<br>
