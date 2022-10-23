@@ -19,7 +19,8 @@ transformed parameters{
 
 model {
   mu[2:N] ~ normal(mu[1:(N-1)], sigma_W);  // システムモデル
-  season[12:N] ~ normal(-sum(season[1:N-11]), sigma_S);  // 季節成分のシステムモデル
+  for(t in 12:N)
+    season[t] ~ normal(-sum(season[(t-11):(t-1)]), sigma_S);  // 季節成分のシステムモデル
   Y ~ normal(y_mean, sigma_O);  // 観測モデル
 }
 
