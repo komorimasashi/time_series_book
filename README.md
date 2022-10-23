@@ -46,6 +46,12 @@ https://www.kspub.co.jp/book/detail/5280751.html
 （誤） 文中の`3-4-1.R`, `3-4-2.R`, `3-4-3.R`, `3-4-4.R`　各ファイルのソースコード<br>
 （正） 1つのファイル（`3-4-1.R`）にまとめています
 
+*　p.136　<br>
+季節成分のモデリングのソースに誤りがありました（電子版では修正されています）　<br>
+（誤） season[12:N] ~ normal(-sum(season[1:N-11]), sigma_S); // 季節成分のシステムモデル<br>
+（正） for(t in 12:N)<br>
+    season[t] ~ normal(-sum(season[(t-11):(t-1)]), sigma_S);  // 季節成分のシステムモデル<br>
+
 *　p.141　<br>
 （誤）　`fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)`<br>
 （正）　`fit <- sampling(model7, data=dat, iter=1000, warmup=500, thin=4, chains=4)`<br>
