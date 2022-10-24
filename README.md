@@ -57,6 +57,8 @@ season[12:N] ~ normal(-sum(season[1:N-11]), sigma_S); // 季節成分のシス�
 for(t in 12:N)
     season[t] ~ normal(-sum(season[(t-11):(t-1)]), sigma_S);  // 季節成分のシステムモデル
 ```
+この修正に伴って図4−11を以下の図に修正します．<br>
+<img src="https://user-images.githubusercontent.com/37983185/197499824-1f1c1eca-aa1d-4e44-8b95-05a1ff3728bc.png" width="400">
 
 *　p.141　<br>
 （誤）　`fit <- sampling(model6, data=dat, iter=1000, warmup=500, thin=4, chains=4)`<br>
