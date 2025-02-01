@@ -9,12 +9,12 @@ stats::lag(x, k=12)
 # tsクラス以外のオブジェクトのラグを求めるにはdplyr::lag()を使う
 library(dplyr)
 x <- 1:10
-dplyr::lag(x, k=1)
+dplyr::lag(x, n=1)
 
 # ラグ系列でデータフレームを作成する
 data.frame(x = 1:10) %>%
-  dplyr::mutate(lead=lead(x, k=1)) %>%
-  dplyr::mutate(lag=lag(x, k=1))
+  dplyr::mutate(lead=lead(x, n=1)) %>%
+  dplyr::mutate(lag=lag(x, n=1))
 
 
 # 階差
